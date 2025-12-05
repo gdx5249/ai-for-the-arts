@@ -21,17 +21,24 @@ This repository documents my learning journey in the course *AI for the Arts and
   ### This notebook demonstrates a complete machine learning workflow using two datasets:
   - **California Housing Data**: Predict median housing prices using linear regression.
   - **MNIST Image Data**: Classify handwritten digits using a convolutional neural network (CNN).
-  ### The notebook is designed for educational purposes
+  **The notebook is designed for educational purposes**
   - Understand the workflow and reflect on problem framing.
   - Download and explore datasets.
   - Prepare data (handle missing values, scaling, stratified sampling).
   - Train models (Linear Regression and CNN).
   - Reflect on the process and experiment with TensorFlow Playground.
-  ### Requirements
-  To run this notebook, ensure your environment includes:
+
+- **Designing_an_Application_Using_LLMs.ipynb**
+  - This notebook demonstrates how to design an application powered by Large Language Models (LLMs) with a focus on cultural sensitivity and social responsibility.
+  - Overview of LLMs, usage methods, and ethical considerations.
+  - A Historical Story Generator that promotes cultural diversity and inclusivity.
+  - Discusses cultural bias, educational impact, and social justice, supported by academic references.
+  - A simple Python implementation using OpenAI API to generate culturally sensitive historical stories.
+
+ ### Requirements
+  To run these notebook, ensure your environment includes:
   - Python ≥ 3.7
   - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `tensorflow`, `keras`
-
 - **Media files**  
   Images and audio used in the notebook to enhance engagement.
 
